@@ -2,7 +2,8 @@
 
 ## Introdução
 
-Esta é uma API Restful simples para manipular dados de uma entidade chamada `Person`. Atualmente, os métodos apenas retornam mensagens de sucesso.
+Essa é uma API Restful simples para manipular dados de uma entidade chamada `Person`. Atualmente, os métodos apenas retornam mensagens de sucesso.
+Foi montada utilizando a linguagem PHP (8.2.12) e servidor xampp. 
 
 ## Endpoints
 
