@@ -17,7 +17,6 @@ if ($uri[1] !== 'api') {
 
 $requestMethod = $_SERVER["REQUEST_METHOD"];
 
-
 $controller = new PersonController($requestMethod);
 $controller->processRequest();
 ?>
